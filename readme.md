@@ -1,3 +1,3 @@
 ### Hello, Git
 
-- I am addding this from 'akash-dev2'
+- I am adding this from 'akash-dev2'
