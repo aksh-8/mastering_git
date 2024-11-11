@@ -1,4 +1,4 @@
-### Hello, Git
+### Hey Gang, welcome to this Git stuff!
 
-- I am adding this from 'akash-dev2'
+- Yo Akash here!
 - Testing `git push` after linking local branch to remote
